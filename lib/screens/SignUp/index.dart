@@ -118,6 +118,7 @@ class SignUpScreenState extends State<SignUpScreen> {
                                 width: screenSize.width,
                                 height: 50.0,
                                 bottomMargin: 10.0,
+                                buttonColor: primaryColor,
                                 borderWidth: 1.0)
                           ],
                         )),
